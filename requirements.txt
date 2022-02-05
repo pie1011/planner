@@ -14,6 +14,7 @@ Authomatic==1.0.0
 # Environment variables
 python-dotenv==0.19.2
 
+Gunicorn
 
 # Other / Unknown
 # idna==3.3
